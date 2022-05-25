@@ -75,6 +75,8 @@ global classes
 .header span {
   color: var(--neut__vdk-blue);
   font-weight: 200;
+  display: inline-block;
+  width: 100%;
 }
 
 .header p {
@@ -175,7 +177,7 @@ global classes
   }
 
   .header span {
-    display: inline-block;
+    display: block;
     width: 100%;
   }
 
