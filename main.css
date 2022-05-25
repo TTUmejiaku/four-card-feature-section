@@ -69,14 +69,12 @@ global classes
 
 .header h1 {
   color: var(--neut__vdk-blue);
-  padding: 0 3rem 1rem 3rem;
+  padding: 0 5rem 1rem 5rem;
 }
 
 .header span {
   color: var(--neut__vdk-blue);
   font-weight: 200;
-  display: inline-block;
-  width: 100%;
 }
 
 .header p {
